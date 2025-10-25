@@ -13,7 +13,7 @@ Designed by **S. Bhavya Sree**.
 **You can play the live version here:**
 **[https://tic-tac-toe-bhavyasree1711.netlify.app/](https://tic-tac-toe-bhavyasree1711.netlify.app/)**
 
-*(Replace the link above with your actual Netlify URL!)*
+
 
 ---
 
